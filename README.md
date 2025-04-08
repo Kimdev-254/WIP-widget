@@ -8,7 +8,7 @@ Perfect for personal portfolios, blogs, or landing pages to keep your audience i
 
 ## 🚀 Demo
 
-![WIP-widget Demo Screenshot](./assets/widget.png) <!-- Optional: Add a screenshot later -->
+![DevPulse Demo](./assets/widget.png)
 
 ---
 
